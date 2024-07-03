@@ -1,0 +1,3 @@
+- Recipe project using just HTML
+- Various HTML concepts 
+- Navigation between pages on the same website
